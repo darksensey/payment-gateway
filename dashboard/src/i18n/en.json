@@ -313,5 +313,8 @@
       "action1": "Action 1",
       "action2": "Action 2"
     }
+  },
+  "paymentInfo": {
+    "title": "Payment info"
   }
 }

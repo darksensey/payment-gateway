@@ -40,6 +40,8 @@ router.afterEach((to, from) => {
 
 /* eslint-disable no-new */
 
+/* http  */
+
 new Vue({
   el: '#app',
   router,
